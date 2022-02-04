@@ -29,8 +29,8 @@ using Inventor;
 using Microsoft.SqlServer.Server;
 using System.Linq.Expressions;
 
-[assembly: ApiVersion("14.0")]
-[assembly: ExtensionId("777619DC-FC0F-44D6-8ED9-F65BFA5B0FA9")]
+[assembly: ApiVersion("15.0")]
+[assembly: ExtensionId("5e7c8112-b00a-4c97-b41c-899aef60fee6")]
 
 
 namespace Autodesk.VltInvSrv.ExportSampleJob
